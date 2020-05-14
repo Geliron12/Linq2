@@ -1,0 +1,7 @@
+C:\Users\geliron\source\repos\Linq9\Linq9\bin\Debug\Linq9.exe.config
+C:\Users\geliron\source\repos\Linq9\Linq9\bin\Debug\Linq9.exe
+C:\Users\geliron\source\repos\Linq9\Linq9\bin\Debug\Linq9.pdb
+C:\Users\geliron\source\repos\Linq9\Linq9\obj\Debug\Linq9.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\Linq9\Linq9\obj\Debug\Linq9.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\Linq9\Linq9\obj\Debug\Linq9.exe
+C:\Users\geliron\source\repos\Linq9\Linq9\obj\Debug\Linq9.pdb

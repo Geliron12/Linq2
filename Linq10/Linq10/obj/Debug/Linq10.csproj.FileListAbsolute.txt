@@ -1,0 +1,7 @@
+C:\Users\geliron\source\repos\Linq10\Linq10\bin\Debug\Linq10.exe.config
+C:\Users\geliron\source\repos\Linq10\Linq10\bin\Debug\Linq10.exe
+C:\Users\geliron\source\repos\Linq10\Linq10\bin\Debug\Linq10.pdb
+C:\Users\geliron\source\repos\Linq10\Linq10\obj\Debug\Linq10.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\Linq10\Linq10\obj\Debug\Linq10.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\Linq10\Linq10\obj\Debug\Linq10.exe
+C:\Users\geliron\source\repos\Linq10\Linq10\obj\Debug\Linq10.pdb

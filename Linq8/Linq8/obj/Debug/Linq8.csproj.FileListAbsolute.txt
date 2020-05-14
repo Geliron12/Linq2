@@ -1,0 +1,7 @@
+C:\Users\geliron\source\repos\Linq8\Linq8\bin\Debug\Linq8.exe.config
+C:\Users\geliron\source\repos\Linq8\Linq8\bin\Debug\Linq8.exe
+C:\Users\geliron\source\repos\Linq8\Linq8\bin\Debug\Linq8.pdb
+C:\Users\geliron\source\repos\Linq8\Linq8\obj\Debug\Linq8.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\Linq8\Linq8\obj\Debug\Linq8.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\Linq8\Linq8\obj\Debug\Linq8.exe
+C:\Users\geliron\source\repos\Linq8\Linq8\obj\Debug\Linq8.pdb

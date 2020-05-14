@@ -1,0 +1,7 @@
+C:\Users\geliron\source\repos\Linq7\Linq7\bin\Debug\Linq7.exe.config
+C:\Users\geliron\source\repos\Linq7\Linq7\bin\Debug\Linq7.exe
+C:\Users\geliron\source\repos\Linq7\Linq7\bin\Debug\Linq7.pdb
+C:\Users\geliron\source\repos\Linq7\Linq7\obj\Debug\Linq7.csprojAssemblyReference.cache
+C:\Users\geliron\source\repos\Linq7\Linq7\obj\Debug\Linq7.csproj.CoreCompileInputs.cache
+C:\Users\geliron\source\repos\Linq7\Linq7\obj\Debug\Linq7.exe
+C:\Users\geliron\source\repos\Linq7\Linq7\obj\Debug\Linq7.pdb
